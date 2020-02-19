@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerations", "src\Enumerations\Enumerations.csproj", "{FD7DADF0-C1C9-45A7-900B-3D2AED793F52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumerations", "src\Enumerations\Enumerations.csproj", "{FD7DADF0-C1C9-45A7-900B-3D2AED793F52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerations.Test", "test\Enumerations.Test\Enumerations.Test.csproj", "{F74F663A-3F58-4A80-BDA2-7A4CA48570BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerations.Test", "test\Enumerations.Test\Enumerations.Test.csproj", "{190DB2E3-AAE0-4242-9CE3-69CF3142CE4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{FD7DADF0-C1C9-45A7-900B-3D2AED793F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD7DADF0-C1C9-45A7-900B-3D2AED793F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD7DADF0-C1C9-45A7-900B-3D2AED793F52}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F74F663A-3F58-4A80-BDA2-7A4CA48570BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F74F663A-3F58-4A80-BDA2-7A4CA48570BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F74F663A-3F58-4A80-BDA2-7A4CA48570BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F74F663A-3F58-4A80-BDA2-7A4CA48570BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{190DB2E3-AAE0-4242-9CE3-69CF3142CE4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190DB2E3-AAE0-4242-9CE3-69CF3142CE4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190DB2E3-AAE0-4242-9CE3-69CF3142CE4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190DB2E3-AAE0-4242-9CE3-69CF3142CE4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -2,8 +2,8 @@
 {
     public abstract class OrderedEnumeration : Enumeration
     {
-        readonly public int Order;
-        internal readonly protected bool HideInGetAll;
+        public int Order { get; }
+        public bool HideInGetAll { get; }
 
         protected OrderedEnumeration(int value, string displayName, int order, bool hideInGetAll = false)
             : base(value, displayName)
