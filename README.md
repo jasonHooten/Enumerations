@@ -61,7 +61,7 @@ public class EmployeeType : Enumeration
     public static readonly EmployeeType
         Manager = new EmployeeType(0, "Manager", 1000m),
         Servant = new EmployeeType(1, "Servant", 0.01m),
-        AssistantToTheRegionalManager = new EmployeeType(2, "Assistant To The Regional Manager", 1.0m),;
+        AssistantToTheRegionalManager = new EmployeeType(2, "Assistant To The Regional Manager", 1.0m);
 
     private decimal _bonus { get; }
 
